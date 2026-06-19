@@ -1,8 +1,7 @@
 <div align="center">
   
   <!-- Premium Cinematic Radial Header Background -->
-  <img src="https://capsule-render.vercel.app/api?type=radial&color=0:0d1117,40:161b22,100:00e5ff&height=280&section=header&text=Mohamed%20Imran&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20%26%20Data%20Science&descSize=20&descAlignY=65&descAlign=50" width="100%" alt="Header"/>
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=200&lines=Mohamed+Imran;Full+Stack+Web+Developer;Data+Science+Engineer" alt="Typing Header" />
   <br/>
 
   <!-- High-End Dynamic Subtitles & Typing Effect Placeholder -->
