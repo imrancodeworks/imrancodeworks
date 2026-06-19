@@ -11,10 +11,10 @@
 <a href="https://github.com/imrancodeworks">
 <img src="https://img.shields.io/badge/GitHub-Follow-1a1a2e?style=for-the-badge&logo=github&logoColor=C9A86A&labelColor=0d0d15"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:imrancodeworks@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C9A86A&labelColor=0d0d15"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/mohamed-imran-h/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C9A86A&labelColor=0d0d15"/>
 </a>
 
@@ -182,10 +182,10 @@ I'm always open to collaborating on machine learning research, deep learning exp
 <a href="https://github.com/imrancodeworks">
 <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=C9A86A&labelColor=0d0d15"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:imrancodeworks@gmail.com">
 <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C9A86A&labelColor=0d0d15"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/mohamed-imran-h/">
 <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C9A86A&labelColor=0d0d15"/>
 </a>
 
